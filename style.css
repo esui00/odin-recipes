@@ -1,0 +1,39 @@
+*{
+    background-color: grey;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+.easy {
+    color: aqua;
+    background-color: black;
+    font-size: 22px;
+    
+  }
+  .title {
+    color: red;
+  }
+
+  img {
+    height: 100px;
+    width: auto;
+    object-fit: cover;
+  }
+  #welcome{
+    height: 300px;
+    width: auto;
+    object-fit: cover;
+    position: relative;
+  }
+
+  h1{
+    font-size: 40px;
+  }
+  h2,
+  h3,
+  h4{
+    font-size: 30px;
+  }
+p,
+li{
+    font-size: 25px;
+}
